@@ -165,7 +165,7 @@ export class main extends Component {
             return;
         }
 
-        director.preloadScene('main', (err) => {
+        /*director.preloadScene('main', (err) => {
             this.curProgress += 5;
             this.loadingUI.updateProgress(this.curProgress, i18n.t("main.entering"));
             if (!err) {
@@ -173,6 +173,6 @@ export class main extends Component {
 
                 });
             }
-        });
+        });*/
     }
 }

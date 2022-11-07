@@ -42,7 +42,7 @@
         "z": 0.400000005960464,
         "w": 1
       },
-      "occlusion": 1,
+      "occlusion": 0,
       "roughness": 0.70710676908493,
       "metallic": 0.400000005960464,
       "alphaThreshold": 1,
