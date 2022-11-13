@@ -11,7 +11,7 @@
     "speed": 1,
     "wrapMode": 2,
     "enableTrsBlending": false,
-    "_duration": 1,
+    "_duration": 0.6666666666666666,
     "_hash": 500763545,
     "_tracks": [
       {
@@ -72,7 +72,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      1
+      0.6666666666666666
     ],
     "_values": [
       {
@@ -111,7 +111,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      1
+      0.6666666666666666
     ],
     "_values": [
       {
@@ -150,7 +150,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      1
+      0.6666666666666666
     ],
     "_values": [
       {
@@ -239,7 +239,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      1
+      0.6666666666666666
     ],
     "_values": [
       {
@@ -278,7 +278,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      1
+      0.6666666666666666
     ],
     "_values": [
       {
@@ -317,7 +317,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      1
+      0.6666666666666666
     ],
     "_values": [
       {
